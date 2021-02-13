@@ -1,4 +1,6 @@
-# CVSS (Common Vulnerability Scoring System) v3.0 Calculator using Python 3 (CLI Based)
+# CVSS v3.0 Calculator (CLI Based)
+# (Common Vulnerability Scoring System)
+# Python 3
 
 Usage
 ----
